@@ -1,0 +1,13 @@
+temp/
+
+*.py[cod]
+
+.qs_*
+
+erlangian_ninja_workspace.code-workspace
+
+.vscode/
+
+_*
+# QS
+.qs/
